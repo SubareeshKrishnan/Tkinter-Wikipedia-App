@@ -5,7 +5,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [py to exe](#py-to-exe)
-* [License](#License)
+* [License](#license)
+
 ## General info
 This project is a simple Wikipedia app with some added funtionalities.
 	
@@ -43,4 +44,4 @@ pip install wikipedia
 * Open the directory and go to Dist folder where you can find the App.
 
 ## License
-* MIT licensed. See the [License](Tkinter-Wikipedia_App/LICENSE) file for full details. 
+* MIT licensed. See the [License](LICENSE) file for full details. 
