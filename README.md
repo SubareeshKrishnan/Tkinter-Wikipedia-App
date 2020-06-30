@@ -43,4 +43,4 @@ pip install wikipedia
 * Open the directory and go to Dist folder where you can find the App.
 
 ## License
-* MIT licensed. See the [License] file for full details. (Tkinter-Wikipedia_App/LICENSE)
+* MIT licensed. See the [License](Tkinter-Wikipedia_App/LICENSE) file for full details. 
