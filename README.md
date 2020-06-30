@@ -1,2 +1,2 @@
-# python_tkinter_projects
+# Tkinter Wikipedia App
 Contains all of my Tkinter projects.
