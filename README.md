@@ -31,7 +31,7 @@ pip install wikipedia
 ### Customize the App according to your desire.
 * Add your languages to the dictionary in the python file.
 * Add your custom font.
-* Change the font size or increase it.
+* Change the font size or increase it beyond the default limits.
 
 ## .py to .exe
 ### Convert .py file to .exe file
