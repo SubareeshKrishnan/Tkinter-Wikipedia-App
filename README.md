@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [py to exe](#py-to-exe)
+* [License](#License)
 ## General info
 This project is a simple Wikipedia app with some added funtionalities.
 	
@@ -40,3 +41,6 @@ pip install wikipedia
 * Choose an Icon. Icon must be in .ico format.
 * Type ```pyinstaller -w -F -i (Your icon directory with file name) (filename.py)``` and hit enter.
 * Open the directory and go to Dist folder where you can find the App.
+
+## License
+* MIT licensed. See the [License] file for full details.(Tkinter-Wikipedia_App/LICENSE)
