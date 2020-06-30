@@ -26,11 +26,17 @@ pip install wikipedia
 ```
 
 ## Customization
-###Customize the App according to your desire.
+### Customize the App according to your desire.
 * Add your languages to the dictionary in the python file.
 * Add your custom font.
 * Change the font size or increase it.
 
 ## .py to .exe
 ### Convert .py file to .exe file
-* 
+#### Install the pyinstaller module
+* ```pip install pyinstaller```
+#### Instructions
+* Open your cmd and change your directory to the .py file.
+* Choose an Icon. Icon must be in .ico format.
+* Type ```pyinstaller -w -F -i (Your icon directory with file name) (filename.py)``` and hit enter.
+* Open the directory and go to Dist folder where you can find the App.
