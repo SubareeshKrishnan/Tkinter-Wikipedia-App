@@ -43,6 +43,7 @@ dict = {"English": 'en',
 
 def search():
     global textbox
+    textbox.grid_forget()
     textbox = scrolledtext.ScrolledText(search_frame, height=30, width=100, wrap=WORD, font = ("Calibri", fontsize.get()))
     global la
     la = lang.get()
