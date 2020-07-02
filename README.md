@@ -9,7 +9,10 @@
 
 ## General info
 This project is a simple Wikipedia app with some added funtionalities.
-	
+
+![Screenshot (8)](https://user-images.githubusercontent.com/67178624/86349072-32a81980-bc7e-11ea-94e0-b45ca8541efd.png)
+
+		
 ## Technologies
 Project is created with:
 * Python version: 3.8.3
